@@ -7,8 +7,8 @@ class ConstantColor {
   static Color blackCokor = Colors.black;
 
   static List<Color> tileColor = [
-    Colors.red,
-    Colors.pink,
-    Colors.blue,
+    Color(0xffFFAD84),
+    Color(0xffFFC47E),
+    Color(0xffFF8F8F),
   ];
 }
