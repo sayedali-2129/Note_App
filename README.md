@@ -10,15 +10,8 @@ providing a personalised touch to note creation and organisation.
 • Focused and creating an intuitive and user-friendly UI interface, allowing users to efficiently create,
 organize, and interact with their notes.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1706621271](https://github.com/sayedali-2129/Note_App/assets/144669457/40e8db55-0a2d-4c63-976f-1037be02510e)
+![Screenshot_1706621130](https://github.com/sayedali-2129/Note_App/assets/144669457/b95688ee-b028-4913-84e6-121fe3db5277)
+![Screenshot_1706621155](https://github.com/sayedali-2129/Note_App/assets/144669457/6d7050cc-6568-4fbc-a39a-544547df61e8)
+![Screenshot_1706621288](https://github.com/sayedali-2129/Note_App/assets/144669457/c66bd2b4-00c6-4505-84a0-18775662a50c)
+![Screenshot_1706621332](https://github.com/sayedali-2129/Note_App/assets/144669457/d7731e17-4058-415a-a616-8424676bb154)
